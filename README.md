@@ -69,3 +69,20 @@ My focus is on:
 **GitHub:** [github.com/tajim4hm3d](https://github.com/tajim4hm3d)
 
 Explore my repositories to see the projects I've built and what I'm currently working on.
+### 🚗 Automotive Dealership Platform | Full-Stack Client Project
+
+Designed, developed and deployed a production automotive dealership website with a secure vehicle stock management system.
+
+- Built a responsive multi-page website with searchable vehicle listings, filtering and image galleries.
+- Developed an authenticated owner portal for managing vehicle stock, photographs and availability.
+- Integrated Cloudflare D1 for vehicle data and Cloudflare R2 for image storage.
+- Implemented customer enquiry forms using Resend and Cloudflare Turnstile.
+- Deployed the platform using Cloudflare Pages and a custom domain.
+- Built for a real client, with over 50 vehicles managed through the platform.
+
+**Technologies:** HTML, CSS, JavaScript, Cloudflare Pages, D1, R2, Cloudflare Access, Resend, Turnstile
+
+🔗 [Live Website](https://armitagemotorsltd.uk) | [GitHub Portfolio Demo](https://github.com/tajim4hm3d/automotive-dealership-platform)
+
+*The public portfolio demonstration uses fictional data and does not contain client records or credentials.*
+
